@@ -1,6 +1,9 @@
+<head>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
 <script type="text/javascript" src="https://blockchain.info/Resources/js/pay-now-button.js"></script>
+
 <link rel="icon" type="image/x-icon" class="js-site-favicon" href="https://assets-cdn.github.com/favicon.ico">
+     </head>
 
 <a href="mailto:sinphony@protonmail.com" style="text-align:left;box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; background-color: transparent; color:rgb(46, 204, 113);text-decoration:none;outline: invert none medium; "><span style="box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; "></span>Sinphony@protonmail.com<span style="box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; "></span></a>
 ## Welcome!
